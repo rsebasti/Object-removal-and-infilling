@@ -9,3 +9,5 @@ References:
 
 [3] Yang G., Yang F., Zhuang X., A Novel Exemplar-based Non-Local Algorithm for Image Inpainting
 
+Test image: ps.jpg is copyright to the Author
+
